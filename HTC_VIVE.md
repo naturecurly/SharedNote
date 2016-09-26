@@ -21,8 +21,9 @@
 
 - Talk from the hardware, design and controller(see the link above).
 
-
-
 ### Why VR can give user an immersive experience.
 
 - https://en.wikipedia.org/wiki/Immersion_(virtual_reality)
+
+
+### [Video Link](https://www.youtube.com/watch?v=qYfNzhLXYGc)
